@@ -10,7 +10,7 @@ Horiseon, as a marketing company, didn't have the online presence they always wi
 
 Through this project, I gained valuable insights into web accessibility, emphasizing the importance of creating user-friendly and inclusive websites.
 
-##Screenshot
+## Screenshot
 
 ![Main Page](./assets/images/horiseon-website.png)
 *This is the main page of the project, where users can find out more about Search Engine Optimization, Online Reputation and Social Media Marketing.*
