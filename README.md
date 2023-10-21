@@ -55,4 +55,4 @@ Here are planned features for future implementation:
 
 ## License
 
-This project will be released under the MIT license when the license file is created.
+Please refer to the [LICENSE](./LICENSE.md) file in this repository for details on how this project is licensed.
