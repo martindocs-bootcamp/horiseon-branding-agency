@@ -59,6 +59,10 @@ body {
     text-decoration: none;
 }
 
+.nav ul li a:hover{
+    color: var(--background-color-main);
+}
+
 /* HEADER IMAGE PLACEHOLDER */
 .hero {
     height: 800px;
