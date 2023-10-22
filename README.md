@@ -38,7 +38,7 @@ N/A (No contributors at this time).
 
 ## Deployment
 
-Working on a live demo, coming soon. Stay tuned for updates!
+You can access the live version of this project on GitHub Pages: [Live Demo](https://martindocs.github.io/horiseon-branding-agency/)
 
 ## Features To Be Added
 
