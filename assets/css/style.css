@@ -1,4 +1,4 @@
-/* VARIABLES */
+/* GLOBAL STYLING */
 :root{
     --background-color-main: #d9dcd6;
     --background-color-header: #2a607c;
@@ -32,12 +32,12 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: var(--background-color-main);
 }
 
 /* NAVIGATION */
-.header .nav {
+.nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
