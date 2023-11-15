@@ -38,7 +38,7 @@ N/A (No contributors at this time).
 
 ## Deployment
 
-You can access the live version of this project on GitHub Pages: [Live Demo](https://martindocs.github.io/horiseon-branding-agency/)
+You can access the live version of this project on GitHub Pages: [Live Demo](https://martindocs-bootcamp.github.io/horiseon-branding-agency/)
 
 ## Features To Be Added
 
